@@ -18,17 +18,17 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="920">
-              <caret line="40" column="30" lean-forward="true" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+            <state relative-caret-position="550">
+              <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
-                <marker date="1651114597958" expanded="true" signature="601:659" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
-                <marker date="1651114597958" expanded="true" signature="601:682" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
-                <marker date="1651114597958" expanded="true" signature="708:766" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
-                <marker date="1651114597958" expanded="true" signature="708:767" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
-                <marker date="1651114597958" expanded="true" signature="1016:1073" ph="SELECT word,... dict_bcz" />
-                <marker date="1651114597958" expanded="true" signature="1016:1074" ph="SELECT word,... dict_bcz" />
-                <marker date="1651114597958" expanded="true" signature="1016:1090" ph="SELECT topic... dict_bcz" />
+                <marker date="1651133362306" expanded="true" signature="601:659" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
+                <marker date="1651133362306" expanded="true" signature="601:682" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
+                <marker date="1651133362306" expanded="true" signature="708:766" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
+                <marker date="1651133362306" expanded="true" signature="708:767" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
+                <marker date="1651133362306" expanded="true" signature="1016:1073" ph="SELECT word,... dict_bcz" />
+                <marker date="1651133362306" expanded="true" signature="1016:1074" ph="SELECT word,... dict_bcz" />
+                <marker date="1651133362306" expanded="true" signature="1016:1090" ph="SELECT topic... dict_bcz" />
               </folding>
             </state>
           </provider>
@@ -80,6 +80,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -95,7 +96,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -315,8 +315,8 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30965593" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30965593" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -350,13 +350,13 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
-            <marker date="1651114597958" expanded="true" signature="601:659" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
-            <marker date="1651114597958" expanded="true" signature="601:682" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
-            <marker date="1651114597958" expanded="true" signature="708:766" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
-            <marker date="1651114597958" expanded="true" signature="708:767" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
-            <marker date="1651114597958" expanded="true" signature="1016:1073" ph="SELECT word,... dict_bcz" />
-            <marker date="1651114597958" expanded="true" signature="1016:1074" ph="SELECT word,... dict_bcz" />
-            <marker date="1651114597958" expanded="true" signature="1016:1090" ph="SELECT topic... dict_bcz" />
+            <marker date="1651133362306" expanded="true" signature="601:659" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
+            <marker date="1651133362306" expanded="true" signature="601:682" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
+            <marker date="1651133362306" expanded="true" signature="708:766" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
+            <marker date="1651133362306" expanded="true" signature="708:767" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
+            <marker date="1651133362306" expanded="true" signature="1016:1073" ph="SELECT word,... dict_bcz" />
+            <marker date="1651133362306" expanded="true" signature="1016:1074" ph="SELECT word,... dict_bcz" />
+            <marker date="1651133362306" expanded="true" signature="1016:1090" ph="SELECT topic... dict_bcz" />
           </folding>
         </state>
       </provider>
@@ -367,30 +367,47 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
-            <marker date="1651114597958" expanded="true" signature="601:659" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
-            <marker date="1651114597958" expanded="true" signature="601:682" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
-            <marker date="1651114597958" expanded="true" signature="708:766" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
-            <marker date="1651114597958" expanded="true" signature="708:767" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
-            <marker date="1651114597958" expanded="true" signature="1016:1073" ph="SELECT word,... dict_bcz" />
-            <marker date="1651114597958" expanded="true" signature="1016:1074" ph="SELECT word,... dict_bcz" />
-            <marker date="1651114597958" expanded="true" signature="1016:1090" ph="SELECT topic... dict_bcz" />
+            <marker date="1651133362306" expanded="true" signature="601:659" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
+            <marker date="1651133362306" expanded="true" signature="601:682" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
+            <marker date="1651133362306" expanded="true" signature="708:766" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
+            <marker date="1651133362306" expanded="true" signature="708:767" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
+            <marker date="1651133362306" expanded="true" signature="1016:1073" ph="SELECT word,... dict_bcz" />
+            <marker date="1651133362306" expanded="true" signature="1016:1074" ph="SELECT word,... dict_bcz" />
+            <marker date="1651133362306" expanded="true" signature="1016:1090" ph="SELECT topic... dict_bcz" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="40" column="30" lean-forward="true" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
-            <marker date="1651114597958" expanded="true" signature="601:659" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
-            <marker date="1651114597958" expanded="true" signature="601:682" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
-            <marker date="1651114597958" expanded="true" signature="708:766" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
-            <marker date="1651114597958" expanded="true" signature="708:767" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
-            <marker date="1651114597958" expanded="true" signature="1016:1073" ph="SELECT word,... dict_bcz" />
-            <marker date="1651114597958" expanded="true" signature="1016:1074" ph="SELECT word,... dict_bcz" />
-            <marker date="1651114597958" expanded="true" signature="1016:1090" ph="SELECT topic... dict_bcz" />
+            <marker date="1651133362306" expanded="true" signature="601:659" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
+            <marker date="1651133362306" expanded="true" signature="601:682" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
+            <marker date="1651133362306" expanded="true" signature="708:766" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
+            <marker date="1651133362306" expanded="true" signature="708:767" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
+            <marker date="1651133362306" expanded="true" signature="1016:1073" ph="SELECT word,... dict_bcz" />
+            <marker date="1651133362306" expanded="true" signature="1016:1074" ph="SELECT word,... dict_bcz" />
+            <marker date="1651133362306" expanded="true" signature="1016:1090" ph="SELECT topic... dict_bcz" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1651133362306" expanded="true" signature="601:659" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
+            <marker date="1651133362306" expanded="true" signature="601:682" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
+            <marker date="1651133362306" expanded="true" signature="708:766" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
+            <marker date="1651133362306" expanded="true" signature="708:767" ph="SELECT topic... ts_learn_offline_dotopic_sync_ids_563" />
+            <marker date="1651133362306" expanded="true" signature="1016:1073" ph="SELECT word,... dict_bcz" />
+            <marker date="1651133362306" expanded="true" signature="1016:1074" ph="SELECT word,... dict_bcz" />
+            <marker date="1651133362306" expanded="true" signature="1016:1090" ph="SELECT topic... dict_bcz" />
           </folding>
         </state>
       </provider>

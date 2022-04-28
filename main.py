@@ -38,6 +38,7 @@ for word in wordId:
     worksheet.write(sum, 2, label=word[0][2])
     sum = sum + 1
 workbook.save(name + '.xls')
+conn2.close()
 print("共" + sum + "个单词，Excel已导出到：" + name + '.xls')
 
 
